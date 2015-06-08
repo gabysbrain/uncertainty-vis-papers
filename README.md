@@ -49,5 +49,7 @@ to explain
 * K. Potter, J. Kniss, R. Riesenfeld, and C. Johnson. Visualizing summary statistics and uncertainty. Computer Graphics Forum, 29(3):823–832, 2010.
 * K. Potter, P. Rosen, and C. R. Johnson. From quantification to visualization: A taxonomy of uncertainty visualization approaches. In Uncertainty Quantification in Scientific Computing, pages 226–249. Springer Science + Business Media, 2012.
 * D. Spiegelhalter, M. Pearson, and I. Short. Visualizing uncertainty about the future. Science, 333(6048):1393–1400, 2011.
+* M. Correll and M. Gleicher. Error bars considered harmful: Exploring alternate encodings for mean and error. IEEE Transactions on Visualization and Computer Graphics, pages 1–1, 2014.
+
 
 
